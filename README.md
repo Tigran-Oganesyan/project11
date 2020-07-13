@@ -1,5 +1,5 @@
 `Версия 1.0.0`
-проект: https://tigran-oganesyan.github.io/project11/
+проект Mesto: https://tigran-oganesyan.github.io/project11/
 ---
 Основной функционал: 
 1. Просмотр изображения по клику;
